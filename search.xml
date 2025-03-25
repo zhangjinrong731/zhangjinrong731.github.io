@@ -155,6 +155,11 @@
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">修改前：</span><br><span class="line">    menu:</span><br><span class="line">    About Me: / || home</span><br><span class="line">    Papers: /papers/ || archive</span><br><span class="line">    Notes: / || book</span><br><span class="line">    Life: /life/ || calendar</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">修改后：</span><br><span class="line">    menu:</span><br><span class="line">    About Me: / || home</span><br><span class="line">    Papers: //categories/papers/ || archive</span><br><span class="line">    Notes: //categories/notes/ || book</span><br><span class="line">    Life: //categories/life/ || calendar</span><br></pre></td></tr></table></figure>
 <p>修改前的内容任何一个教你用“hexo new page”来创建新页的教学都会教你如何设置，修改后的内容也仅仅是将其转换为指向固定类别标识的文章，不难理解。</p>
 <p>后面要做的就是在新建的文章里标注具体的类别，最好顺带把公式渲染工具页一起开了。 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: Flexible Streaming Temporal Action Segmentation with Diffusion Models</span><br><span class="line">date: 2025-03-25 18:59:41</span><br><span class="line">categories: papers</span><br><span class="line">mathjax: true</span><br><span class="line">katex: true</span><br><span class="line">---</span><br></pre></td></tr></table></figure></p>
+<h2 id="补充一个hexo上传的小技巧此技巧能够解决其他需要命令行连vnp的需求">补充一个HEXO上传的小技巧，此技巧能够解决其他需要命令行连VNP的需求</h2>
+<p>win10给命令行挂东西：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">set HTTP_PROXY=http://127.0.0.1:7890</span><br><span class="line">set HTTPS_PROXY=http://127.0.0.1:7890</span><br></pre></td></tr></table></figure>
+<p>后面的端口号与工具一致即可。尽在命令行里使用，不在系统里设置，则关闭命令行后设置回归正常，不会影响别的命令行。要是不放心可以运行如下指令：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">set HTTP_PROXY=</span><br><span class="line">set HTTPS_PROXY=</span><br></pre></td></tr></table></figure>
 ]]></content>
       <categories>
         <category>notes</category>
