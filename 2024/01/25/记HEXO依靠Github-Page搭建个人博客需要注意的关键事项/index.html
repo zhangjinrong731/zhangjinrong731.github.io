@@ -20,21 +20,23 @@
     var CONFIG = {"hostname":"example.com","root":"/","scheme":"Pisces","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":true,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":5,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.xml"};
   </script>
 
-  <meta name="description" content="您好您好，原来又是快乐的一天~~~">
+  <meta name="description" content="为了让主页更好看的一系列类似这是文章的优先级和是否置顶、read more按钮的具体使用方法本文不再赘述，根据网上的教程即可。本文主要从个人视角出发总结实践过程中的疑点。 其实搭建这个个人主页的教程网络上的资源还是很完备的，主要流程其实就是正常配置NodeJS的环境，顺带就装好了npm，然后采用npm来安装hexo和各种插件工具。需要注意的主要是图片和公式的使用，可能还有图表，但是在markdo">
 <meta property="og:type" content="article">
-<meta property="og:title" content="快乐的一天~~~">
-<meta property="og:url" content="http://example.com/2020/03/24/papers/index.html">
+<meta property="og:title" content="记HEXO依靠Github Page搭建个人博客需要注意的关键事项">
+<meta property="og:url" content="http://example.com/2024/01/25/%E8%AE%B0HEXO%E4%BE%9D%E9%9D%A0Github-Page%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E9%9C%80%E8%A6%81%E6%B3%A8%E6%84%8F%E7%9A%84%E5%85%B3%E9%94%AE%E4%BA%8B%E9%A1%B9/index.html">
 <meta property="og:site_name" content="Jinrong Zhang&#39; Page">
-<meta property="og:description" content="您好您好，原来又是快乐的一天~~~">
+<meta property="og:description" content="为了让主页更好看的一系列类似这是文章的优先级和是否置顶、read more按钮的具体使用方法本文不再赘述，根据网上的教程即可。本文主要从个人视角出发总结实践过程中的疑点。 其实搭建这个个人主页的教程网络上的资源还是很完备的，主要流程其实就是正常配置NodeJS的环境，顺带就装好了npm，然后采用npm来安装hexo和各种插件工具。需要注意的主要是图片和公式的使用，可能还有图表，但是在markdo">
 <meta property="og:locale" content="en_US">
-<meta property="og:image" content="http://example.com/images/papers/zjr2.jpg">
-<meta property="article:published_time" content="2020-03-24T09:45:58.000Z">
-<meta property="article:modified_time" content="2025-03-25T13:07:12.550Z">
+<meta property="og:image" content="http://example.com/images/%E8%AE%B0HEXO%E4%BE%9D%E9%9D%A0Github-Page%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E9%9C%80%E8%A6%81%E6%B3%A8%E6%84%8F%E7%9A%84%E5%85%B3%E9%94%AE%E4%BA%8B%E9%A1%B9/im1.png">
+<meta property="og:image" content="http://example.com/images/%E8%AE%B0HEXO%E4%BE%9D%E9%9D%A0Github-Page%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E9%9C%80%E8%A6%81%E6%B3%A8%E6%84%8F%E7%9A%84%E5%85%B3%E9%94%AE%E4%BA%8B%E9%A1%B9/im2.png">
+<meta property="og:image" content="http://example.com/images/%E8%AE%B0HEXO%E4%BE%9D%E9%9D%A0Github-Page%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E9%9C%80%E8%A6%81%E6%B3%A8%E6%84%8F%E7%9A%84%E5%85%B3%E9%94%AE%E4%BA%8B%E9%A1%B9/im3.png">
+<meta property="article:published_time" content="2024-01-25T13:12:55.000Z">
+<meta property="article:modified_time" content="2025-03-25T13:41:56.182Z">
 <meta property="article:author" content="Jinrong Zhang">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="http://example.com/images/papers/zjr2.jpg">
+<meta name="twitter:image" content="http://example.com/images/%E8%AE%B0HEXO%E4%BE%9D%E9%9D%A0Github-Page%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E9%9C%80%E8%A6%81%E6%B3%A8%E6%84%8F%E7%9A%84%E5%85%B3%E9%94%AE%E4%BA%8B%E9%A1%B9/im1.png">
 
-<link rel="canonical" href="http://example.com/2020/03/24/papers/">
+<link rel="canonical" href="http://example.com/2024/01/25/%E8%AE%B0HEXO%E4%BE%9D%E9%9D%A0Github-Page%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E9%9C%80%E8%A6%81%E6%B3%A8%E6%84%8F%E7%9A%84%E5%85%B3%E9%94%AE%E4%BA%8B%E9%A1%B9/">
 
 
 <script id="page-configurations">
@@ -47,7 +49,7 @@
   };
 </script>
 
-  <title>快乐的一天~~~ | Jinrong Zhang' Page</title>
+  <title>记HEXO依靠Github Page搭建个人博客需要注意的关键事项 | Jinrong Zhang' Page</title>
   
 
 
@@ -191,7 +193,7 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="en">
-    <link itemprop="mainEntityOfPage" href="http://example.com/2020/03/24/papers/">
+    <link itemprop="mainEntityOfPage" href="http://example.com/2024/01/25/%E8%AE%B0HEXO%E4%BE%9D%E9%9D%A0Github-Page%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E9%9C%80%E8%A6%81%E6%B3%A8%E6%84%8F%E7%9A%84%E5%85%B3%E9%94%AE%E4%BA%8B%E9%A1%B9/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/zjr.jpg">
@@ -204,7 +206,7 @@
     </span>
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">
-          快乐的一天~~~
+          记HEXO依靠Github Page搭建个人博客需要注意的关键事项
         </h1>
 
         <div class="post-meta">
@@ -214,14 +216,14 @@
               </span>
               <span class="post-meta-item-text">Posted on</span>
 
-              <time title="Created: 2020-03-24 17:45:58" itemprop="dateCreated datePublished" datetime="2020-03-24T17:45:58+08:00">2020-03-24</time>
+              <time title="Created: 2024-01-25 21:12:55" itemprop="dateCreated datePublished" datetime="2024-01-25T21:12:55+08:00">2024-01-25</time>
             </span>
               <span class="post-meta-item">
                 <span class="post-meta-item-icon">
                   <i class="fa fa-calendar-check-o"></i>
                 </span>
                 <span class="post-meta-item-text">Edited on</span>
-                <time title="Modified: 2025-03-25 21:07:12" itemprop="dateModified" datetime="2025-03-25T21:07:12+08:00">2025-03-25</time>
+                <time title="Modified: 2025-03-25 21:41:56" itemprop="dateModified" datetime="2025-03-25T21:41:56+08:00">2025-03-25</time>
               </span>
             <span class="post-meta-item">
               <span class="post-meta-item-icon">
@@ -229,7 +231,7 @@
               </span>
               <span class="post-meta-item-text">In</span>
                 <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/life/" itemprop="url" rel="index"><span itemprop="name">life</span></a>
+                  <a href="/categories/notes/" itemprop="url" rel="index"><span itemprop="name">notes</span></a>
                 </span>
             </span>
 
@@ -244,8 +246,32 @@
     <div class="post-body" itemprop="articleBody">
 
       
-        <p><img src="/images/papers/zjr2.jpg" /></p>
-<p>您好您好，原来又是快乐的一天~~~</p>
+        <h3 id="为了让主页更好看的一系列类似这是文章的优先级和是否置顶read-more按钮的具体使用方法本文不再赘述根据网上的教程即可本文主要从个人视角出发总结实践过程中的疑点">为了让主页更好看的一系列类似这是文章的优先级和是否置顶、read more按钮的具体使用方法本文不再赘述，根据网上的教程即可。本文主要从个人视角出发总结实践过程中的疑点。</h3>
+<p>其实搭建这个个人主页的教程网络上的资源还是很完备的，主要流程其实就是正常配置NodeJS的环境，顺带就装好了npm，然后采用npm来安装hexo和各种插件工具。需要注意的主要是图片和公式的使用，可能还有图表，但是在markdown内画论文级别的表格实在是过于痛苦，因此直接使用截图来替代了。本文主要介绍本人的经验下的图片和公式的注意事项。额外补充一个新建Page后在一个Page下挂载多篇文章的方式。</p>
+<span id="more"></span>
+<h2 id="图片的插入">图片的插入</h2>
+<p>其实图片的插入仅仅需要注意路径的选择，具体正确的例子可见下图：</p>
+<p><img src="/images/记HEXO依靠Github-Page搭建个人博客需要注意的关键事项/im1.png" /></p>
+<p>如图展示的是通过html的语法来进行图片的挂载。它虽然语法复杂一点，但是能够自行调整图片的大小，甚至位置（本人在NEXT模板下没有成功，仅是用来调整大小）。</p>
+<p>还有一种方式是通过markdown语法来调整：</p>
+<figure>
+<img src="/images/记HEXO依靠Github-Page搭建个人博客需要注意的关键事项/im2.png" alt="alt text" /><figcaption aria-hidden="true">alt text</figcaption>
+</figure>
+<p>这种方式语法简单但是不能调整大小。</p>
+<p>图片唯一需要注意的地方就是路径的设置。网上说通过插件可以让md文件内的图片路径和hexo挂载需要的路径一致，我在实践过程中并没有成功。hexo需要的路径是在source文件夹下的路径，需要注意实际使用时得去掉“source”并且注意保留“/”。我在实际操作过程中会按照md的语法在路径中保留“source”，类似“/images/记HEXO依靠Github-Page搭建个人博客需要注意的关键事项/im2.png”，在完成所有的编辑后全局替换“/images/”为“/images/”，这样便能在hexo挂载的网页上正常显示图片。</p>
+<h2 id="公式的插入">公式的插入</h2>
+<p>正常按照网上的教程打开hexo的公式插件便能按照md的语法写入公式。但是本人绝大多数时候是按照Latex来写的，其实两者区别不大。需要注意的是好像hexo不支持编译多余的大括号，尽管这个在md和latex上都不受到影响，具体如下所示：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">hexo不能编译通过的公式代码：$&#123;L_c&#125; \in \left\&#123; &#123;&#123;L_c^1&#125;, \ldots ,&#123;L_c^k&#125;&#125; \right\&#125;$</span><br><span class="line">hexo可以通过的公式代码：$&#123;L_c&#125; \in \left\&#123; &#123;L_c^1, \ldots ,L_c^k&#125; \right\&#125;$</span><br></pre></td></tr></table></figure>
+<p>稍微有点玄学，但是也不是不能接受。</p>
+<h2 id="page下多篇文章的挂载">Page下多篇文章的挂载</h2>
+<p>网上的教程会教人用“hexp new page "test" ”之类的指令来创建新的Page。这些Page会伴随一个包含有index.md的文件夹产生。需要注意的是在这些文件夹下新见md文件是不会出现在主页中的，同时这些index.md里的!-- more --功能都不能正常实现。看起来设计者从设计之初就是想让page挂载单独的内容，而在主页中直接展示所有的文章。</p>
+<p>但是作为一个学术研究者，我们是更愿意在主页只展示个人资料，而在page里挂载多个独立的文档的。我作为一个纯纯的算法研究者，对于前后端以及开发的技术知识一窍不通，在此仅仅介绍我自己根据教程总结的折中的方法。</p>
+<p>具体的作法就是将Page从单纯的展示index转换为挂载固定类别的索引目录，具体效果如下：</p>
+<p><img src="/images/记HEXO依靠Github-Page搭建个人博客需要注意的关键事项/im3.png" /></p>
+<p>要改的有两个地方，第一个是theme里的config文件，需要将对应目录page的指引内容修改如下：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line">修改前：</span><br><span class="line">    menu:</span><br><span class="line">    About Me: / || home</span><br><span class="line">    Papers: /papers/ || archive</span><br><span class="line">    Notes: / || book</span><br><span class="line">    Life: /life/ || calendar</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">修改后：</span><br><span class="line">    menu:</span><br><span class="line">    About Me: / || home</span><br><span class="line">    Papers: //categories/papers/ || archive</span><br><span class="line">    Notes: //categories/notes/ || book</span><br><span class="line">    Life: //categories/life/ || calendar</span><br></pre></td></tr></table></figure>
+<p>修改前的内容任何一个教你用“hexo new page”来创建新页的教学都会教你如何设置，修改后的内容也仅仅是将其转换为指向固定类别标识的文章，不难理解。</p>
+<p>后面要做的就是在新建的文章里标注具体的类别，最好顺带把公式渲染工具页一起开了。 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">title: Flexible Streaming Temporal Action Segmentation with Diffusion Models</span><br><span class="line">date: 2025-03-25 18:59:41</span><br><span class="line">categories: papers</span><br><span class="line">mathjax: true</span><br><span class="line">katex: true</span><br><span class="line">---</span><br></pre></td></tr></table></figure></p>
 
     </div>
 
@@ -260,10 +286,13 @@
 
         
     <div class="post-nav">
-      <div class="post-nav-item"></div>
       <div class="post-nav-item">
-    <a href="/2024/01/25/%E8%AE%B0HEXO%E4%BE%9D%E9%9D%A0Github-Page%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E9%9C%80%E8%A6%81%E6%B3%A8%E6%84%8F%E7%9A%84%E5%85%B3%E9%94%AE%E4%BA%8B%E9%A1%B9/" rel="next" title="记HEXO依靠Github Page搭建个人博客需要注意的关键事项">
-      记HEXO依靠Github Page搭建个人博客需要注意的关键事项 <i class="fa fa-chevron-right"></i>
+    <a href="/2020/03/24/papers/" rel="prev" title="快乐的一天~~~">
+      <i class="fa fa-chevron-left"></i> 快乐的一天~~~
+    </a></div>
+      <div class="post-nav-item">
+    <a href="/2024/10/25/End-to-End-Streaming-Video-Temporal-Action-Segmentation-with-Reinforcement-Learning/" rel="next" title="End-to-End Streaming Video Temporal Action Segmentation with Reinforcement Learning">
+      End-to-End Streaming Video Temporal Action Segmentation with Reinforcement Learning <i class="fa fa-chevron-right"></i>
     </a></div>
     </div>
       </footer>
@@ -323,6 +352,7 @@
 
       <!--noindex-->
       <div class="post-toc-wrap sidebar-panel">
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%BA%E4%BA%86%E8%AE%A9%E4%B8%BB%E9%A1%B5%E6%9B%B4%E5%A5%BD%E7%9C%8B%E7%9A%84%E4%B8%80%E7%B3%BB%E5%88%97%E7%B1%BB%E4%BC%BC%E8%BF%99%E6%98%AF%E6%96%87%E7%AB%A0%E7%9A%84%E4%BC%98%E5%85%88%E7%BA%A7%E5%92%8C%E6%98%AF%E5%90%A6%E7%BD%AE%E9%A1%B6read-more%E6%8C%89%E9%92%AE%E7%9A%84%E5%85%B7%E4%BD%93%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95%E6%9C%AC%E6%96%87%E4%B8%8D%E5%86%8D%E8%B5%98%E8%BF%B0%E6%A0%B9%E6%8D%AE%E7%BD%91%E4%B8%8A%E7%9A%84%E6%95%99%E7%A8%8B%E5%8D%B3%E5%8F%AF%E6%9C%AC%E6%96%87%E4%B8%BB%E8%A6%81%E4%BB%8E%E4%B8%AA%E4%BA%BA%E8%A7%86%E8%A7%92%E5%87%BA%E5%8F%91%E6%80%BB%E7%BB%93%E5%AE%9E%E8%B7%B5%E8%BF%87%E7%A8%8B%E4%B8%AD%E7%9A%84%E7%96%91%E7%82%B9"><span class="nav-number">1.</span> <span class="nav-text">为了让主页更好看的一系列类似这是文章的优先级和是否置顶、read more按钮的具体使用方法本文不再赘述，根据网上的教程即可。本文主要从个人视角出发总结实践过程中的疑点。</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%9B%BE%E7%89%87%E7%9A%84%E6%8F%92%E5%85%A5"><span class="nav-number"></span> <span class="nav-text">图片的插入</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%85%AC%E5%BC%8F%E7%9A%84%E6%8F%92%E5%85%A5"><span class="nav-number"></span> <span class="nav-text">公式的插入</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#page%E4%B8%8B%E5%A4%9A%E7%AF%87%E6%96%87%E7%AB%A0%E7%9A%84%E6%8C%82%E8%BD%BD"><span class="nav-number"></span> <span class="nav-text">Page下多篇文章的挂载</span></a></div>
       </div>
       <!--/noindex-->
 
