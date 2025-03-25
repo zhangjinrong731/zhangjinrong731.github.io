@@ -92,16 +92,6 @@
       </categories>
   </entry>
   <entry>
-    <title>快乐的一天~~~</title>
-    <url>/2025/03/24/papers/</url>
-    <content><![CDATA[<p><img src="/images/papers/zjr2.jpg" /></p>
-<p>您好您好，原来又是快乐的一天~~~</p>
-]]></content>
-      <categories>
-        <category>life</category>
-      </categories>
-  </entry>
-  <entry>
     <title>End-to-End Streaming Video Temporal Action Segmentation with Reinforcement Learning</title>
     <url>/2024/10/25/End-to-End-Streaming-Video-Temporal-Action-Segmentation-with-Reinforcement-Learning/</url>
     <content><![CDATA[<h1 id="end-to-end-streaming-video-temporal-action-segmentation-with-reinforcement-learning">End-to-End Streaming Video Temporal Action Segmentation with Reinforcement Learning</h1>
@@ -134,6 +124,16 @@
 ]]></content>
       <categories>
         <category>papers</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>快乐的一天~~~</title>
+    <url>/2020/03/24/papers/</url>
+    <content><![CDATA[<p><img src="/images/papers/zjr2.jpg" /></p>
+<p>您好您好，原来又是快乐的一天~~~</p>
+]]></content>
+      <categories>
+        <category>life</category>
       </categories>
   </entry>
 </search>
