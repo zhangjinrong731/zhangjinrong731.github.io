@@ -59,6 +59,7 @@ If you're interested in my research or have any research-related questions, plea
 [Breaking the Regional Perception Bottleneck of Multimodal Large Language Models via External Reasoning Framework]()
 
 **Jinrong Zhang**, Zhaoyang Xu, Xusheng He, Xinrui Li, Na Zheng, Jianlong Wu#
+
 **First Author**, CVPR (CCF-A), 2026
 
 - Revealed the limitations of current MLLMs in pixel-level regional perception and propose a multimodal MCTS-based reasoning framework to overcome this bottleneck, enabling a 7B model to achieve performance comparable to 72B.
@@ -71,6 +72,7 @@ If you're interested in my research or have any research-related questions, plea
 [Just a Few Glances: Open-Set Visual Perception with Image Prompt Paradigm](https://ojs.aaai.org/index.php/AAAI/article/view/330)
 
 **Jinrong Zhang**, Penghui Wang, Chunxiao Liu, Wei Liu, Dian Jin, Qiong Zhang#, Erli Meng#, Zhengnan Hu
+
 **First Author**, AAAI (CCF-A), 2025
 
 - Introduced a novel visual prompts for open-world object detection and segmentation, which bypasses the inherent ambiguity of textual descriptions and achieves enhanced performance and robustness.
@@ -83,6 +85,7 @@ If you're interested in my research or have any research-related questions, plea
 [DTOS: Dynamic Time Object Sensing with Large Multimodal Model](https://openaccess.thecvf.com/content/CVPR2025/papers/Tian_DTOS_Dynamic_Time_Object_Sensing_with_Large_Multimodal_Model_CVPR_2025_paper.pdf)
 
 Jirui Tian\*, **Jinrong Zhang**\*, Shenglan Liu#, Luhao Xu, Zhixiong Huang, Gao Huang
+
 **Co-First Author**, CVPR (CCF-A), 2025
 
 - Designed DTOS for precise spatio-temporal grounding in MLLMs, utilizing a two-stage temporal-spatial refinement mechanism and task-specific quantitative tokens to accurately locate discontinuous targets while overcoming information loss caused by uniform sampling and natural language ambiguity.
@@ -95,6 +98,7 @@ Jirui Tian\*, **Jinrong Zhang**\*, Shenglan Liu#, Luhao Xu, Zhixiong Huang, Gao 
 [End-to-End Streaming Video Temporal Action Segmentation With Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10963907)
 
 **JinRong Zhang**, WuJun Wen, ShengLan Liu, Gao Huang, YunHeng Li, QiFeng Li, Lin Feng#
+
 **First Author**, TNNLS (IF = 8.9), 2025
 
 - Pioneering a streaming video paradigm for temporal action segmentation unlocks ultra-long and online processing capabilities. Analyzing the intrinsic properties of streaming video and introducing a reinforcement learning paradigm successfully bridges the resulting feature gap.
@@ -107,6 +111,7 @@ Jirui Tian\*, **Jinrong Zhang**\*, Shenglan Liu#, Luhao Xu, Zhixiong Huang, Gao 
 [Flexible Streaming Temporal Action Segmentation with Diffusion Models](https://ieeexplore.ieee.org/document/11210093)
 
 **Jinrong Zhang**, Wenjun Wen, Shenglan Liu, Sifan Zhang, Yuning Ding, Lin Feng#
+
 **First Author**, ICME (CCF-B), 2025
 
 - Extending to dynamic streaming video scenarios to evaluate intrinsic feature variations across variable-length clips, and deploying a diffusion model architecture that fundamentally shifts the task paradigm to yield temporal robustness.
