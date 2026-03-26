@@ -120,6 +120,8 @@ Jirui Tian\*, **Jinrong Zhang**\*, Shenglan Liu#, Luhao Xu, Zhixiong Huang, Gao 
 
 ## 🗒️ Others
 
+- [**Multidimensional refinement graph convolutional network with robust decouple loss for fine-grained skeleton-based action recognition**](https://ieeexplore.ieee.org/abstract/document/10499829/): Sheng-Lan Liu, Yu-Ning Ding, **Jin-Rong Zhang**, et al. TNNLS 2024.
+- [**2M-AF: A Strong Multi-Modality Framework for Human Action Quality Assessment with Self-Supervised Representation Learning**](https://dl.acm.org/doi/abs/10.1145/3664647.3681084): Yuning Ding, Sifan Zhang, Liu Shenglan, **Jinrong Zhang**, et al. ACM MM 2024.
 - [**Cluster-Refined Optimal Transport for Unsupervised Action Segmentation**](https://ieeexplore.ieee.org/document/10887693): Shijie Wang\*, **Jinrong Zhang**\*, et al. ICASSP 2025.
 - [**Unsupervised Temporal Action Segmentation Based on Wavelet Feature Processing**](https://ieeexplore.ieee.org/document/11229403): Xianghan Lin\*, **Jinrong Zhang**\*, et al. IJCNN 2025.
 
