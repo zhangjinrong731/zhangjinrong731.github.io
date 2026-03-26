@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jinrong Zhang\\(张津榕)"
+  name             : "Jinrong Zhang<br>(张津榕)"
   avatar           : "images/zjr_sz.jpg"
   bio              : "PhD Student, Harbin Institute of Technology, Shenzhen"
   location         : "Shenzhen, China"
