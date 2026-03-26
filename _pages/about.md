@@ -17,14 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Jinrong Zhang**, a PhD student at **Harbin Institute of Technology, Shenzhen**, supervised by [Prof. Jianlong Wu](https://jlwu1992.github.io). My research focuses on:
 
-- Multimodal LLMs
-- Multimodal Reasoning
-- Open-World Object Detection & Segmentation
-- Video Understanding & Temporal Analysis
+I am currently a Ph.D. student in Electronic Information at the School of Computer Science and Technology, Harbin Institute of Technology, Shenzhen , supervised by [Prof. Jianlong Wu](https://jlwu1992.github.io). Prior to this, I completed seven years of undergraduate and master's studies at Dalian University of Technology.
 
-I previously received my master's and bachelor's degrees from **Dalian University of Technology**. My work centers on robust visual perception and spatio-temporal reasoning, with publications in CVPR, AAAI, TNNLS, and ICME.
+My current research interests focus on Multimodal Large Language Models, Multimodal Reasoning, Open World Object Detection and Segmentation, and Video Understanding &amp； Temporal Analysis.
+
+If you're interested in my research or have any research-related questions, please feel free to contact me via email at zhangjinrong731@gmail.com.
 
 <span class='anchor' id='education'></span>
 
@@ -45,8 +43,8 @@ I previously received my master's and bachelor's degrees from **Dalian Universit
   - Published a paper at AAAI based on the experimental research and findings conducted during the internship.
 
 - **Complex Video Object Segmentation:** [CVPR Workshop, 5th PVUW Challenge](https://pvuw.github.io/), *2026.02 - 2026.03*
-  - [**The 1st Winner for 5th MOSE Challenge:**](https://www.codabench.org/competitions/14016/#/results-tab) Proposed tracking-enhanced prompt strategy to improve SAM3's understanding capabilities for tiny and semantic-dominated objects, outperformed the 2nd place by 1.75% in J&F.
-  - [**The 1st Winner for 5th MeViS-Text Challenge:**](https://www.codabench.org/competitions/14017/#/results-tab) Engineered an MLLM-guided SAM3-agent pipeline for iterative mask grounding and autonomous semantic refinement, outperformed the 2nd place by 7.91% in J&F.
+  - [**The 1st Winner for 5th MOSE Challenge:**](https://www.codabench.org/competitions/14016/#/results-tab) Proposed tracking-enhanced prompt strategy to improve SAM3's understanding capabilities for tiny and semantic-dominated objects, outperformed the 2nd place by 1.75% in J&amp;F_new.
+  - [**The 1st Winner for 5th MeViS-Text Challenge:**](https://www.codabench.org/competitions/14017/#/results-tab) Engineered an MLLM-guided SAM3-agent pipeline for iterative mask grounding and autonomous semantic refinement, outperformed the 2nd place by 7.91% in J&ampF.
 
 <span class='anchor' id='publications'></span>
 
