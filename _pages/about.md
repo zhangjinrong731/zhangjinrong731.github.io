@@ -26,6 +26,8 @@ I am **Jinrong Zhang**, a PhD student at **Harbin Institute of Technology, Shenz
 
 I previously received my master's and bachelor's degrees from **Dalian University of Technology**. My work centers on robust visual perception and spatio-temporal reasoning, with publications in CVPR, AAAI, TNNLS, and ICME.
 
+<span class='anchor' id='education'></span>
+
 # 📖 Education
 - *2025.09 - 2029.06*, **Harbin Institute of Technology, Shenzhen**  
   PhD in Electronic Information, School of Computer Science and Technology (Supervisor: Prof. Jianlong Wu)
@@ -33,6 +35,8 @@ I previously received my master's and bachelor's degrees from **Dalian Universit
   Master in Control Science and Engineering, School of Control Science and Engineering
 - *2018.09 - 2022.06*, **Dalian University of Technology**  
   Bachelor in Transportation Engineering, School of Transportation and Logistics
+
+<span class='anchor' id='experience'></span>
 
 # 💻 Internship Experience & Programs
 
@@ -43,6 +47,8 @@ I previously received my master's and bachelor's degrees from **Dalian Universit
 - **Complex Video Object Segmentation:** [CVPR Workshop, 5th PVUW Challenge](https://pvuw.github.io/), *2026.02 - 2026.03*
   - [**The 1st Winner for 5th MOSE Challenge:**](https://www.codabench.org/competitions/14016/#/results-tab) Proposed tracking-enhanced prompt strategy to improve SAM3's understanding capabilities for tiny and semantic-dominated objects, outperformed the 2nd place by 1.75% in J&F.
   - [**The 1st Winner for 5th MeViS-Text Challenge:**](https://www.codabench.org/competitions/14017/#/results-tab) Engineered an MLLM-guided SAM3-agent pipeline for iterative mask grounding and autonomous semantic refinement, outperformed the 2nd place by 7.91% in J&F.
+
+<span class='anchor' id='publications'></span>
 
 # 📝 Publications 
 
@@ -100,6 +106,8 @@ I previously received my master's and bachelor's degrees from **Dalian Universit
 - Extending to dynamic streaming video scenarios to evaluate intrinsic feature variations across variable-length clips, and deploying a diffusion model architecture that fundamentally shifts the task paradigm to yield temporal robustness.
 </div>
 </div>
+
+<span class='anchor' id='achievements'></span>
 
 # 🎖 Achievements
 - Outstanding Graduate, Dalian University of Technology
