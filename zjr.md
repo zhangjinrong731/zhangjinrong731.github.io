@@ -44,7 +44,7 @@ My research interests focus on **Multimodal Large Language Models**, **Multimoda
   **JinRong Zhang**, WuJun Wen, ShengLan Liu, Gao Huang, YunHeng Li, QiFeng Li, Lin Feng#
 
 - **[ICME 2025]** [Flexible Streaming Temporal Action Segmentation with Diffusion Models](https://ieeexplore.ieee.org/document/11210093)
-  **Jinrong Zhang**, Wenjun Wen, Shenglan Liu, Sifan Zhang, Yuning Ding, Lin Feng#
+  **Jinrong Zhang**, Wujun Wen, Shenglan Liu, Sifan Zhang, Yuning Ding, Lin Feng#
 
 <details>
 <summary>More Publications</summary>

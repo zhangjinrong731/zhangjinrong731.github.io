@@ -110,7 +110,7 @@ Jirui Tian\*, **Jinrong Zhang**\*, Shenglan Liu#, Luhao Xu, Zhixiong Huang, Gao 
 
 [Flexible Streaming Temporal Action Segmentation with Diffusion Models](https://ieeexplore.ieee.org/document/11210093)
 
-**Jinrong Zhang**, Wenjun Wen, Shenglan Liu, Sifan Zhang, Yuning Ding, Lin Feng#
+**Jinrong Zhang**, Wujun Wen, Shenglan Liu, Sifan Zhang, Yuning Ding, Lin Feng#
 
 **First Author**, ICME (CCF-B), 2025
 
