@@ -21,8 +21,8 @@ I am **Jinrong Zhang**, a PhD student at **Harbin Institute of Technology, Shenz
 
 - Multimodal LLMs
 - Multimodal Reasoning
-- Open-World Object Detection and Segmentation
-- Video Understanding and Temporal Analysis
+- Open-World Object Detection & Segmentation
+- Video Understanding & Temporal Analysis
 
 I previously received my master's and bachelor's degrees from **Dalian University of Technology**. My work centers on robust visual perception and spatio-temporal reasoning, with publications in CVPR, AAAI, TNNLS, and ICME.
 
@@ -35,10 +35,14 @@ I previously received my master's and bachelor's degrees from **Dalian Universit
   Bachelor in Transportation Engineering, School of Transportation and Logistics
 
 # 💻 Internship Experience & Programs
-- *2024.03 - 2024.09*, **Research Intern, Xiaomi**  
-  Developed an open-world detection and segmentation large-model solution for die-casting defect detection at Xiaomi Automobile Factory; achieved +4.6% AP50 over SAM2 and over +30% gains on long-tail categories.
-- *2026.02 - 2026.03*, **5th PVUW Challenge (CVPR Workshop)**  
-  Won 1st place in both MOSE and MeViS-Text tracks with tracking-enhanced prompts and an MLLM-guided SAM3-agent pipeline.
+
+- **Open World Object Detection & Segmentation:** Research Intern, Xiaomi, *2024.03 - 2024.09*
+  - Developed an open-world detection and segmentation large model solution from scratch for the large die casting defect detection business at Xiaomi Automobile Factory. Outperformed SAM2 by achieving a 4.6% increase in AP50 on the proprietary validation set, with a significant >30% performance boost on long-tail categories.
+  - Published a paper at AAAI based on the experimental research and findings conducted during the internship.
+
+- **Complex Video Object Segmentation:** [CVPR Workshop, 5th PVUW Challenge](https://pvuw.github.io/), *2026.02 - 2026.03*
+  - [**The 1st Winner for 5th MOSE Challenge:**](https://www.codabench.org/competitions/14016/#/results-tab) Proposed tracking-enhanced prompt strategy to improve SAM3's understanding capabilities for tiny and semantic-dominated objects, outperformed the 2nd place by 1.75% in J&F.
+  - [**The 1st Winner for 5th MeViS-Text Challenge:**](https://www.codabench.org/competitions/14017/#/results-tab) Engineered an MLLM-guided SAM3-agent pipeline for iterative mask grounding and autonomous semantic refinement, outperformed the 2nd place by 7.91% in J&F.
 
 # 📝 Publications 
 
@@ -49,7 +53,7 @@ I previously received my master's and bachelor's degrees from **Dalian Universit
 
 **Jinrong Zhang** (First Author), CVPR (CCF-A), 2026
 
-- Reveals pixel-level regional perception limitations in current MLLMs and proposes a multimodal MCTS-based reasoning framework that enables a 7B model to achieve performance comparable to 72B models.
+- Revealed the limitations of current MLLMs in pixel-level regional perception and propose a multimodal MCTS-based reasoning framework to overcome this bottleneck, enabling a 7B model to achieve performance comparable to 72B.
 </div>
 </div>
 
@@ -60,7 +64,7 @@ I previously received my master's and bachelor's degrees from **Dalian Universit
 
 **Jinrong Zhang** (First Author), AAAI (CCF-A), 2025
 
-- Introduces visual prompts for open-world object detection and segmentation, reducing ambiguity in textual descriptions and improving performance and robustness.
+- Introduced a novel visual prompts for open-world object detection and segmentation, which bypasses the inherent ambiguity of textual descriptions and achieves enhanced performance and robustness.
 </div>
 </div>
 
@@ -71,7 +75,7 @@ I previously received my master's and bachelor's degrees from **Dalian Universit
 
 **Jinrong Zhang** (Co-First Author), CVPR (CCF-A), 2025
 
-- Proposes a two-stage temporal-spatial refinement mechanism with task-specific quantitative tokens for precise spatio-temporal grounding in MLLMs.
+- Designed DTOS for precise spatio-temporal grounding in MLLMs, utilizing a two-stage temporal-spatial refinement mechanism and task-specific quantitative tokens to accurately locate discontinuous targets while overcoming information loss caused by uniform sampling and natural language ambiguity.
 </div>
 </div>
 
@@ -82,7 +86,7 @@ I previously received my master's and bachelor's degrees from **Dalian Universit
 
 **Jinrong Zhang** (First Author), TNNLS (IF = 8.9), 2025
 
-- Pioneers a streaming-video paradigm for temporal action segmentation and introduces a reinforcement learning strategy to bridge the feature gap in online settings.
+- Pioneering a streaming video paradigm for temporal action segmentation unlocks ultra-long and online processing capabilities. Analyzing the intrinsic properties of streaming video and introducing a reinforcement learning paradigm successfully bridges the resulting feature gap.
 </div>
 </div>
 
@@ -93,7 +97,7 @@ I previously received my master's and bachelor's degrees from **Dalian Universit
 
 **Jinrong Zhang** (First Author), ICME (CCF-B), 2025
 
-- Extends streaming temporal action segmentation to variable-length clips and adopts a diffusion architecture to improve temporal robustness.
+- Extending to dynamic streaming video scenarios to evaluate intrinsic feature variations across variable-length clips, and deploying a diffusion model architecture that fundamentally shifts the task paradigm to yield temporal robustness.
 </div>
 </div>
 
