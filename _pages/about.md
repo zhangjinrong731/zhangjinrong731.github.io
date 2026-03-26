@@ -52,11 +52,11 @@ If you're interested in my research or have any research-related questions, plea
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
-* Eauql contribution. # Corresponding author
+\* Eauql contribution. # Corresponding author
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/rground.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Breaking the Regional Perception Bottleneck of Multimodal Large Language Models via External Reasoning Framework](#)
+[Breaking the Regional Perception Bottleneck of Multimodal Large Language Models via External Reasoning Framework]()
 
 **Jinrong Zhang**, Zhaoyang Xu, Xusheng He, Xinrui Li, Na Zheng, Jianlong Wu#
 **First Author**, CVPR (CCF-A), 2026
@@ -68,7 +68,7 @@ If you're interested in my research or have any research-related questions, plea
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/miground.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Just a Few Glances: Open-Set Visual Perception with Image Prompt Paradigm](#)
+[Just a Few Glances: Open-Set Visual Perception with Image Prompt Paradigm](https://ojs.aaai.org/index.php/AAAI/article/view/330)
 
 **Jinrong Zhang**, Penghui Wang, Chunxiao Liu, Wei Liu, Dian Jin, Qiong Zhang#, Erli Meng#, Zhengnan Hu
 **First Author**, AAAI (CCF-A), 2025
@@ -80,9 +80,9 @@ If you're interested in my research or have any research-related questions, plea
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/dtos.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DTOS: Dynamic Time Object Sensing with Large Multimodal Model](#)
+[DTOS: Dynamic Time Object Sensing with Large Multimodal Model](https://openaccess.thecvf.com/content/CVPR2025/papers/Tian_DTOS_Dynamic_Time_Object_Sensing_with_Large_Multimodal_Model_CVPR_2025_paper.pdf)
 
-Jirui Tian*, **Jinrong Zhang***, Shenglan Liu#, Luhao Xu, Zhixiong Huang, Gao Huang
+Jirui Tian\*, **Jinrong Zhang**\*, Shenglan Liu#, Luhao Xu, Zhixiong Huang, Gao Huang
 **Co-First Author**, CVPR (CCF-A), 2025
 
 - Designed DTOS for precise spatio-temporal grounding in MLLMs, utilizing a two-stage temporal-spatial refinement mechanism and task-specific quantitative tokens to accurately locate discontinuous targets while overcoming information loss caused by uniform sampling and natural language ambiguity.
@@ -92,7 +92,7 @@ Jirui Tian*, **Jinrong Zhang***, Shenglan Liu#, Luhao Xu, Zhixiong Huang, Gao Hu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2025</div><img src='images/svtas.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[End-to-End Streaming Video Temporal Action Segmentation With Reinforcement Learning](#)
+[End-to-End Streaming Video Temporal Action Segmentation With Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10963907)
 
 **JinRong Zhang**, WuJun Wen, ShengLan Liu, Gao Huang, YunHeng Li, QiFeng Li, Lin Feng#
 **First Author**, TNNLS (IF = 8.9), 2025
@@ -104,7 +104,7 @@ Jirui Tian*, **Jinrong Zhang***, Shenglan Liu#, Luhao Xu, Zhixiong Huang, Gao Hu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2025</div><img src='images/fstas.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Flexible Streaming Temporal Action Segmentation with Diffusion Models](#)
+[Flexible Streaming Temporal Action Segmentation with Diffusion Models](https://ieeexplore.ieee.org/document/11210093)
 
 **Jinrong Zhang**, Wenjun Wen, Shenglan Liu, Sifan Zhang, Yuning Ding, Lin Feng#
 **First Author**, ICME (CCF-B), 2025
