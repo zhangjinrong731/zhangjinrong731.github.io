@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jinrong Zhang"
-description              : "PhD student at Harbin Institute of Technology, Shenzhen. Research on Multimodal LLMs, Multimodal Reasoning, Open-World Object Detection & Segmentation, and Video Understanding & Temporal Analysis."
+description              : # "PhD student at Harbin Institute of Technology, Shenzhen. Research on Multimodal LLMs, Multimodal Reasoning, Open-World Object Detection & Segmentation, and Video Understanding & Temporal Analysis."
 repository               : "zhangjinrong731/zhangjinrong731.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jinrong Zhang"
+  name             : "Jinrong Zhang\\(张津榕)"
   avatar           : "images/zjr_sz.jpg"
   bio              : "PhD Student, Harbin Institute of Technology, Shenzhen"
   location         : "Shenzhen, China"
