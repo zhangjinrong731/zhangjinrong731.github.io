@@ -118,6 +118,12 @@ Jirui Tian\*, **Jinrong Zhang**\*, Shenglan Liu#, Luhao Xu, Zhixiong Huang, Gao 
 </div>
 </div>
 
+## 🗒️ Others
+
+- [**Cluster-Refined Optimal Transport for Unsupervised Action Segmentation**](https://ieeexplore.ieee.org/document/10887693): Shijie Wang\*, **Jinrong Zhang**\*, et al. ICASSP 2025.
+- [**Unsupervised Temporal Action Segmentation Based on Wavelet Feature Processing**](https://ieeexplore.ieee.org/document/11229403): Xianghan Lin\*, **Jinrong Zhang**\*, et al. IJCNN 2025.
+
+
 <span class='anchor' id='achievements'></span>
 
 <span class='anchor' id='achievements'></span>
