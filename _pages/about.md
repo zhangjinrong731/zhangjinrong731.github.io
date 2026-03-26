@@ -17,42 +17,94 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am **Jinrong Zhang**, a PhD student at **Harbin Institute of Technology, Shenzhen**, supervised by [Prof. Jianlong Wu](https://jlwu1992.github.io). My research focuses on:
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+- Multimodal LLMs
+- Multimodal Reasoning
+- Open-World Object Detection and Segmentation
+- Video Understanding and Temporal Analysis
 
+I previously received my master's and bachelor's degrees from **Dalian University of Technology**. My work centers on robust visual perception and spatio-temporal reasoning, with publications in CVPR, AAAI, TNNLS, and ICME.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.03*: 🏆 Won **1st place** in both the **5th MOSE Challenge** and **5th MeViS-Text Challenge** at the CVPR Workshop PVUW Challenge.
+- *2026*: 📄 First-author paper accepted by **CVPR 2026** on improving regional perception for multimodal large language models.
+- *2025*: 📄 First-author paper accepted by **AAAI 2025** on open-set visual perception with image prompt paradigm.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><!-- TODO: Add paper image --></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Breaking the Regional Perception Bottleneck of Multimodal Large Language Models via External Reasoning Framework](#)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Jinrong Zhang** (First Author), CVPR (CCF-A), 2026
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Reveals pixel-level regional perception limitations in current MLLMs and proposes a multimodal MCTS-based reasoning framework that enables a 7B model to achieve performance comparable to 72B models.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><!-- TODO: Add paper image --></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Just a Few Glances: Open-Set Visual Perception with Image Prompt Paradigm](#)
+
+**Jinrong Zhang** (First Author), AAAI (CCF-A), 2025
+
+- Introduces visual prompts for open-world object detection and segmentation, reducing ambiguity in textual descriptions and improving performance and robustness.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><!-- TODO: Add paper image --></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DTOS: Dynamic Time Object Sensing with Large Multimodal Model](#)
+
+**Jinrong Zhang** (Co-First Author), CVPR (CCF-A), 2025
+
+- Proposes a two-stage temporal-spatial refinement mechanism with task-specific quantitative tokens for precise spatio-temporal grounding in MLLMs.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2025</div><!-- TODO: Add paper image --></div></div>
+<div class='paper-box-text' markdown="1">
+
+[End-to-End Streaming Video Temporal Action Segmentation With Reinforcement Learning](#)
+
+**Jinrong Zhang** (First Author), TNNLS (IF = 8.9), 2025
+
+- Pioneers a streaming-video paradigm for temporal action segmentation and introduces a reinforcement learning strategy to bridge the feature gap in online settings.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2025</div><!-- TODO: Add paper image --></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Flexible Streaming Temporal Action Segmentation with Diffusion Models](#)
+
+**Jinrong Zhang** (First Author), ICME (CCF-B), 2025
+
+- Extends streaming temporal action segmentation to variable-length clips and adopts a diffusion architecture to improve temporal robustness.
+</div>
+</div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Outstanding Graduate, Dalian University of Technology
+- International Underwater Robot Competition, Championship
+- The 19th RoboMaster Robotics Competition, Second Prize
+- China Robotics Competition (Underwater Robot Operations Project), Second Prize
+- Chinese Collegiate Computing Competition, Second Prize
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2025.09 - 2029.06*, **Harbin Institute of Technology, Shenzhen**  
+  PhD in Electronic Information, School of Computer Science and Technology (Supervisor: Prof. Jianlong Wu)
+- *2022.09 - 2025.06*, **Dalian University of Technology**  
+  Master in Control Science and Engineering, School of Control Science and Engineering
+- *2018.09 - 2022.06*, **Dalian University of Technology**  
+  Bachelor in Transportation Engineering, School of Transportation and Logistics
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.03 - 2024.09*, **Research Intern, Xiaomi**  
+  Built an open-world detection and segmentation large-model solution for large die-casting defect detection at Xiaomi Automobile Factory; achieved +4.6% AP50 over SAM2 and over +30% gains on long-tail categories.
+- *2026.02 - 2026.03*, **5th PVUW Challenge (CVPR Workshop)**  
+  Won 1st place in both MOSE and MeViS-Text tracks with tracking-enhanced prompts and an MLLM-guided SAM3-agent pipeline.
