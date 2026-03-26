@@ -29,7 +29,7 @@ If you're interested in my research or have any research-related questions, plea
 <span class='anchor' id='education'></span>
 # 📖 Education
 - *2025.09 - 2029.06*, **Harbin Institute of Technology, Shenzhen**  
-  PhD in Electronic Information, School of Computer Science and Technology (Supervisor: Prof. Jianlong Wu)
+  PhD in Electronic Information, School of Computer Science and Technology (Supervisor: [Prof. Jianlong Wu](https://jlwu1992.github.io))
 - *2022.09 - 2025.06*, **Dalian University of Technology**  
   Master in Control Science and Engineering, School of Control Science and Engineering
 - *2018.09 - 2022.06*, **Dalian University of Technology**  
