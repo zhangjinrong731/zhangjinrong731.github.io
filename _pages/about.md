@@ -26,10 +26,19 @@ I am **Jinrong Zhang**, a PhD student at **Harbin Institute of Technology, Shenz
 
 I previously received my master's and bachelor's degrees from **Dalian University of Technology**. My work centers on robust visual perception and spatio-temporal reasoning, with publications in CVPR, AAAI, TNNLS, and ICME.
 
-# 🔥 News
-- *2026.03*: 🏆 Won **1st place** in both the **5th MOSE Challenge** and **5th MeViS-Text Challenge** at the CVPR Workshop PVUW Challenge.
-- *2026*: 📄 First-author paper accepted by **CVPR 2026** on improving regional perception for multimodal large language models.
-- *2025*: 📄 First-author paper accepted by **AAAI 2025** on open-set visual perception with image prompt paradigm.
+# 📖 Education
+- *2025.09 - 2029.06*, **Harbin Institute of Technology, Shenzhen**  
+  PhD in Electronic Information, School of Computer Science and Technology (Supervisor: Prof. Jianlong Wu)
+- *2022.09 - 2025.06*, **Dalian University of Technology**  
+  Master in Control Science and Engineering, School of Control Science and Engineering
+- *2018.09 - 2022.06*, **Dalian University of Technology**  
+  Bachelor in Transportation Engineering, School of Transportation and Logistics
+
+# 💻 Internship Experience & Programs
+- *2024.03 - 2024.09*, **Research Intern, Xiaomi**  
+  Developed an open-world detection and segmentation large-model solution for die-casting defect detection at Xiaomi Automobile Factory; achieved +4.6% AP50 over SAM2 and over +30% gains on long-tail categories.
+- *2026.02 - 2026.03*, **5th PVUW Challenge (CVPR Workshop)**  
+  Won 1st place in both MOSE and MeViS-Text tracks with tracking-enhanced prompts and an MLLM-guided SAM3-agent pipeline.
 
 # 📝 Publications 
 
@@ -88,23 +97,9 @@ I previously received my master's and bachelor's degrees from **Dalian Universit
 </div>
 </div>
 
-# 🎖 Honors and Awards
+# 🎖 Achievements
 - Outstanding Graduate, Dalian University of Technology
 - International Underwater Robot Competition, Championship
 - The 19th RoboMaster Robotics Competition, Second Prize
 - China Robotics Competition (Underwater Robot Operations Project), Second Prize
 - Chinese Collegiate Computing Competition, Second Prize
-
-# 📖 Educations
-- *2025.09 - 2029.06*, **Harbin Institute of Technology, Shenzhen**  
-  PhD in Electronic Information, School of Computer Science and Technology (Supervisor: Prof. Jianlong Wu)
-- *2022.09 - 2025.06*, **Dalian University of Technology**  
-  Master in Control Science and Engineering, School of Control Science and Engineering
-- *2018.09 - 2022.06*, **Dalian University of Technology**  
-  Bachelor in Transportation Engineering, School of Transportation and Logistics
-
-# 💻 Internships
-- *2024.03 - 2024.09*, **Research Intern, Xiaomi**  
-  Built an open-world detection and segmentation large-model solution for large die-casting defect detection at Xiaomi Automobile Factory; achieved +4.6% AP50 over SAM2 and over +30% gains on long-tail categories.
-- *2026.02 - 2026.03*, **5th PVUW Challenge (CVPR Workshop)**  
-  Won 1st place in both MOSE and MeViS-Text tracks with tracking-enhanced prompts and an MLLM-guided SAM3-agent pipeline.
